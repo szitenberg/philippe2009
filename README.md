@@ -1,0 +1,2 @@
+# Reanalysis of of data from Philippe et al. 2009 using ReproPhylo
+**Philippe**, Hervé, Romain Derelle, Philippe Lopez, Kerstin Pick, Carole  Borchiellini, Nicole Boury-Esnault, Jean Vacelet et al. "Phylogenomics revives traditional views on deep animal relationships." Current Biology 19, no. 8 (**2009**): 706-712.   
